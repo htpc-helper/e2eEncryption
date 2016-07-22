@@ -2,7 +2,7 @@
 
 When I saw that Pushbullet had implemented end to end encryption I was interested to find out how it works.
 
-I included the encrypt and decrypt functionaitly into a class that anyone can use to encrypt and decrypt messages.
+I included the encrypt and decrypt functionatily into a class that anyone can use to encrypt and decrypt messages.
 
 I found the following links useful when completing this project:
 
